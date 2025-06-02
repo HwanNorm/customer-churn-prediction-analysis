@@ -164,15 +164,6 @@ The analysis expects a CSV file with the following columns:
 - `payment_issues`: Number of payment problems encountered
 - `churned`: Binary target variable (0 = retained, 1 = churned)
 
-## 🔗 Additional Analysis Opportunities
-
-This project can be extended with:
-- **Advanced Algorithms**: Random Forest, XGBoost, Neural Networks
-- **Feature Engineering**: Customer lifetime value, interaction terms, seasonality
-- **Customer Segmentation**: RFM analysis, behavioral clustering  
-- **Time Series Analysis**: Churn prediction over time
-- **A/B Testing Framework**: Test retention interventions
-- **Real-time Pipeline**: Deploy model for live predictions
 
 ## 📈 Business Impact
 
