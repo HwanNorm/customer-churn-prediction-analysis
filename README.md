@@ -164,10 +164,3 @@ The analysis expects a CSV file with the following columns:
 - `payment_issues`: Number of payment problems encountered
 - `churned`: Binary target variable (0 = retained, 1 = churned)
 
-
-## 📈 Business Impact
-
-**Potential ROI**: 
-- Current churn rate: 58.4%
-- Possible reduction with interventions: 15-25%
-- For 1000 customers with $50 avg LTV: **$4,380-$7,300 annual savings*
